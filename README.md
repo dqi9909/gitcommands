@@ -1,1 +1,3 @@
-# gitcommands
+# gitcommands*# EmptyRepository>>README.md
+ls
+echo '# EmptyRepository
